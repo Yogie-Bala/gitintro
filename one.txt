@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 data updated
+=======
+va va vaaa
+>>>>>>> master
